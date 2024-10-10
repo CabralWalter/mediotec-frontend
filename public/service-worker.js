@@ -1,7 +1,7 @@
 const CACHE_NAME = "v1";
 const urlsToCache = [
   "/",
-  "/index.html",
+  "/layout.tsx",
   "/manifest.json",
   "/AppIcons/android/android-launchericon-192-192.png",
 ];
